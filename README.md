@@ -38,3 +38,4 @@ Se requiere un programa en Java para convertir una cantidad de dinero en otros t
 +--------+-------------+-------------------+--------------+
 ~~~
  ## Etapa 03. Diseño de la Solucion 
+![](https://github.com/rigo1012/Ejercicio1.1/blob/master/Conversor.png)
