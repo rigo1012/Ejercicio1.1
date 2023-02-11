@@ -1,0 +1,9 @@
+@startuml
+class Conversor{
++String moneda
++Float cantidad
++Double conversion
+}
+
+
+@enduml
